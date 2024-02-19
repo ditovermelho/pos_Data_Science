@@ -23,7 +23,7 @@ python -m venv venv
 * Ativar a venv:
 ```javascript
 ./venv/Scripts/Activate.ps1
-
+```
 
 * Atualização do pip da venv:
 ```javascript
